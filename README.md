@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **dart, flutter, firebase**
 
-- 📫 how to reach me **semosyr2002@gmail.com**
+- 📫 how to reach me **osamaabdullh2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
